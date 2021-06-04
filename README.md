@@ -1,5 +1,5 @@
 # RedenIstGold-InselSpiel
-Dies ist das Python-Skript meiner Masterthesis. 
+Dies ist das Python-Skript meiner Master Thesis.
 Die genaue Dokumentation dazu ist in meiner Masterthesis zu finden.
 
 RedenIstGold-InselSpiel basiert auf dem https://github.com/NosGigu/RedenIstGold Projekt 
